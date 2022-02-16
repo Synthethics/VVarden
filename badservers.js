@@ -569,6 +569,11 @@ const badservers = {
   '715275213553795202': 'Gacha Leaks',
   '754653299780616254': 'Neon Arena (Leaks)',
   '892848421201915974': 'FiveM Leaks',
+  /* New Leaked Servers 14/02/2022 */
+  '888289662177775626': 'Gabbar Framework (Leaks)',
+  '932383248653357128': 'Finnish Textures (Leaks)',
+  '791874960268197888': 'QBUS Modifications (Leaks)',
+  '877538979157774456': 'QbCore Scripts (Leaks)',
 };
 
 module.exports = badservers;
