@@ -18,6 +18,7 @@ global.admin = [
   '755635619035611158', // Bombay
   '128262487979196416', // Olliee_RPG
   '102743329871007744', // Idris
+  '542799191282417684', // Volumed
 ],
 
 module.exports = {
